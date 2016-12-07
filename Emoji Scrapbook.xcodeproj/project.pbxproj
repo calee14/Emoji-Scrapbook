@@ -12,6 +12,7 @@
 		B3E487B31DF79FB200CCBDCA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3E487B11DF79FB200CCBDCA /* Main.storyboard */; };
 		B3E487B51DF79FB200CCBDCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3E487B41DF79FB200CCBDCA /* Assets.xcassets */; };
 		B3E487B81DF79FB200CCBDCA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3E487B61DF79FB200CCBDCA /* LaunchScreen.storyboard */; };
+		B3E487C01DF7C8B600CCBDCA /* EmojiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3E487BF1DF7C8B600CCBDCA /* EmojiViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B3E487B41DF79FB200CCBDCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B3E487B71DF79FB200CCBDCA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B3E487B91DF79FB200CCBDCA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3E487BF1DF7C8B600CCBDCA /* EmojiViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B3E487AD1DF79FB200CCBDCA /* AppDelegate.swift */,
 				B3E487AF1DF79FB200CCBDCA /* ViewController.swift */,
+				B3E487BF1DF7C8B600CCBDCA /* EmojiViewController.swift */,
 				B3E487B11DF79FB200CCBDCA /* Main.storyboard */,
 				B3E487B41DF79FB200CCBDCA /* Assets.xcassets */,
 				B3E487B61DF79FB200CCBDCA /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3E487C01DF7C8B600CCBDCA /* EmojiViewController.swift in Sources */,
 				B3E487B01DF79FB200CCBDCA /* ViewController.swift in Sources */,
 				B3E487AE1DF79FB200CCBDCA /* AppDelegate.swift in Sources */,
 			);
@@ -299,6 +303,7 @@
 				B3E487BE1DF79FB200CCBDCA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
