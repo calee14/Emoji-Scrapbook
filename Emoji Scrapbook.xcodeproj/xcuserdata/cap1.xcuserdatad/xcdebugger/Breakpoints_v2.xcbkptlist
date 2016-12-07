@@ -26,12 +26,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Emoji Scrapbook/EmojiViewController.swift"
-            timestampString = "502779999.484488"
+            timestampString = "502780808.476854"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
-            landmarkName = "viewDidLoad()"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "didReceiveMemoryWarning()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -42,60 +42,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Emoji Scrapbook/EmojiViewController.swift"
-            timestampString = "502780063.0229"
+            timestampString = "502780808.476854"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
             landmarkName = "EmojiViewController"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Emoji_Scrapbook.EmojiViewController.defLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
-                  moduleName = "Emoji Scrapbook"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/cap1/Desktop/Emoji%20Scrapbook/Emoji%20Scrapbook/EmojiViewController.swift"
-                  timestampString = "502780155.271093"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "27">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Emoji_Scrapbook.EmojiViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Emoji_Scrapbook.EmojiViewController"
-                  moduleName = "Emoji Scrapbook"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/cap1/Desktop/Emoji%20Scrapbook/Emoji%20Scrapbook/EmojiViewController.swift"
-                  timestampString = "502780155.276224"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "158">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Emoji_Scrapbook.EmojiViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Emoji_Scrapbook.EmojiViewController&gt;"
-                  moduleName = "Emoji Scrapbook"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/cap1/Desktop/Emoji%20Scrapbook/Emoji%20Scrapbook/EmojiViewController.swift"
-                  timestampString = "502780155.280281"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "88">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
