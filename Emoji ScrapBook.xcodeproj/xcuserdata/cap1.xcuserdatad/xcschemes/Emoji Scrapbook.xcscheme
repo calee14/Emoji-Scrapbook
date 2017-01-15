@@ -17,7 +17,7 @@
                BlueprintIdentifier = "B3E487A91DF79FB200CCBDCA"
                BuildableName = "Emoji Scrapbook.app"
                BlueprintName = "Emoji Scrapbook"
-               ReferencedContainer = "container:Emoji Scrapbook.xcodeproj">
+               ReferencedContainer = "container:Emoji ScrapBook.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "B3E487A91DF79FB200CCBDCA"
             BuildableName = "Emoji Scrapbook.app"
             BlueprintName = "Emoji Scrapbook"
-            ReferencedContainer = "container:Emoji Scrapbook.xcodeproj">
+            ReferencedContainer = "container:Emoji ScrapBook.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "B3E487A91DF79FB200CCBDCA"
             BuildableName = "Emoji Scrapbook.app"
             BlueprintName = "Emoji Scrapbook"
-            ReferencedContainer = "container:Emoji Scrapbook.xcodeproj">
+            ReferencedContainer = "container:Emoji ScrapBook.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "B3E487A91DF79FB200CCBDCA"
             BuildableName = "Emoji Scrapbook.app"
             BlueprintName = "Emoji Scrapbook"
-            ReferencedContainer = "container:Emoji Scrapbook.xcodeproj">
+            ReferencedContainer = "container:Emoji ScrapBook.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

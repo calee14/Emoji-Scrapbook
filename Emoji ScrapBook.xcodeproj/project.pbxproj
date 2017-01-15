@@ -103,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B3E487A51DF79FB200CCBDCA /* Build configuration list for PBXProject "Emoji Scrapbook" */;
+			buildConfigurationList = B3E487A51DF79FB200CCBDCA /* Build configuration list for PBXProject "Emoji ScrapBook" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -287,7 +287,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B3E487A51DF79FB200CCBDCA /* Build configuration list for PBXProject "Emoji Scrapbook" */ = {
+		B3E487A51DF79FB200CCBDCA /* Build configuration list for PBXProject "Emoji ScrapBook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B3E487BA1DF79FB200CCBDCA /* Debug */,
